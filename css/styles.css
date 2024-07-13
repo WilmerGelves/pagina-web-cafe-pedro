@@ -233,7 +233,7 @@ span{
         width: 300px;
     }   
     .altanera{
-        width: 400px;
+        width: 300px;
     }
     
     .nosotros-item h2{
@@ -251,6 +251,10 @@ span{
     }
     .tetxo{
         margin: 1em 0;
+    }
+    .boton-nosotros{
+        margin-left: 0;
+        text-align: center;
     }
     
     
