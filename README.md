@@ -13,4 +13,4 @@ Abre la carpeta que se descargará y dirigete a el archivo index.html
 ```bash
 Abre el archivo index.html en visul code y ejecuta con live server
 ```
-Hecho por [algunapersona](125094214+WilmerGelves@users.noreply.github.com)
+Hecho por [Wilmer Gelves](125094214+WilmerGelves@users.noreply.github.com)
